@@ -28,6 +28,7 @@ public:
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "Git Test" << endl;
+	cout << "Git Test2" << endl;
 	return 0;
 }
 
