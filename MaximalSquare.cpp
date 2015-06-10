@@ -27,6 +27,7 @@ public:
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	cout << "Git Test" << endl;
 	return 0;
 }
 
